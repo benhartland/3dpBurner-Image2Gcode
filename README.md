@@ -24,6 +24,12 @@ Check the "Releases" for release versions and .exe files.
 //-------------------- Changelog ------------------------
 //-------------------------------------------------------
 
+Image2GCode modifications made by Ben Hartland
+    Profile Manager
+    Expanded UI to use more screen
+Changes intended for personal use, but have at it if you guys want to give it a try.
+Changes made 2019-01-07
+
 Image2GCode has been modified by Leo69 for use on Marlin firmware for MPCNC
 
 Additional modifications made by Bryan (Uthayne)
