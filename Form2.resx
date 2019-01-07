@@ -118,7 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="richTextBox1.Text" xml:space="preserve">
-    <value>3dpBurner-Image2Gcode is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+    <value>3dpBurner Image2Gcode
+
+Changelog:
+-(v1.1) Profile customisation support - 2019-01-07 (Ben Hartland)
+-(v.6) Fixed CRLF inconsistencies, removed blank lines, allowed power min/max to include decimals. Other small bug fixes... - 2/20/16 -Bryan (Uthayne)
+-(v.5) S-values to 4 decimal place for increased resolution - 2/8/16 - Leo69
+-(v.4) Added origin set points and an outline at low power - 1/29/16 -Bryan (Uthayne)
+-(v.3) Added profile section for commonly used settings - 1/17/16 -Bryan (Uthayne)
+-Initial modification for MPCNC - 1/12/16 -Leo69
+
+
+3dpBurner-Image2Gcode is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 3dpBurner-Image2Gcode is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 

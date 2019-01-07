@@ -15,5 +15,10 @@ namespace _3dpBurnerImage2Gcode
         {
             InitializeComponent();
         }
-    }
+
+		private void Form2_Load(object sender, EventArgs e)
+		{
+
+		}
+	}
 }

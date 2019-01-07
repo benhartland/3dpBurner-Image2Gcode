@@ -24,4 +24,12 @@ Check the "Releases" for release versions and .exe files.
 //-------------------- Changelog ------------------------
 //-------------------------------------------------------
 
-none
+Image2GCode has been modified by Leo69 for use on Marlin firmware for MPCNC
+
+Additional modifications made by Bryan (Uthayne)
+    Profiles
+    Origin
+    
+Revised interpolate function to allow 4 place decimal laser power values instead of integers. Will provide better grayscale resolution on high powered lasers with small working range of power values. Leo-69
+
+Minor bug fixes and improvements -Bryan (Uthayne)

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dpBurnerImage2Gcode", "3dpBurnerImage2Gcode.csproj", "{496E57A8-49C8-44DB-BF07-622A62A882EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Alpha|Any CPU = Alpha|Any CPU
+		Beta|Any CPU = Beta|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496E57A8-49C8-44DB-BF07-622A62A882EF}.Alpha|Any CPU.ActiveCfg = Alpha|Any CPU
+		{496E57A8-49C8-44DB-BF07-622A62A882EF}.Alpha|Any CPU.Build.0 = Alpha|Any CPU
+		{496E57A8-49C8-44DB-BF07-622A62A882EF}.Beta|Any CPU.ActiveCfg = Beta|Any CPU
+		{496E57A8-49C8-44DB-BF07-622A62A882EF}.Beta|Any CPU.Build.0 = Beta|Any CPU
+		{496E57A8-49C8-44DB-BF07-622A62A882EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496E57A8-49C8-44DB-BF07-622A62A882EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496E57A8-49C8-44DB-BF07-622A62A882EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496E57A8-49C8-44DB-BF07-622A62A882EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
